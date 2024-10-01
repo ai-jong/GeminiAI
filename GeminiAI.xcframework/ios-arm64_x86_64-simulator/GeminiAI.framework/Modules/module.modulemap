@@ -1,0 +1,6 @@
+framework module GeminiAI {
+  umbrella header "GeminiAI.h"
+  export *
+
+  module * { export * }
+}
