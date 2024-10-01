@@ -32,8 +32,8 @@ end
 
 ```
 ## Gemini API Key
-To get started with GeminiAI, get API key at [Gemini](https://www.Gemini.com/en-us/ai/).
-
+To get started with GeminiAI, get API key at [Gemini](https://ai.google.dev/gemini-api/docs/api-key).
+(https://ai.google.dev/gemini-api/docs/api-key)
 ## Example
 GeminiAI's compact syntax and extensive feature set allow requests with powerful features like automatic retry to be written in just a few lines of code.
 
