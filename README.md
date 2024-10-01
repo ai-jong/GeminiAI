@@ -41,7 +41,7 @@ GeminiAI's compact syntax and extensive feature set allow requests with powerful
 import GeminiAI
 
 func GeminiAIExample() {
-    let geminiAI = GeminiAI( apiKey: "nvapi-your Gemini api key");
+    let geminiAI = GeminiAI( apiKey: "Gemini api key");
                 
      geminiAI.request("taiwan in five words or less") { ( result: String) in
         print("result: \(result)")
